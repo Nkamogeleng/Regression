@@ -9,3 +9,5 @@ The data was cleaned, experimented in different models and one model was chosen 
 2. Exploratory data analysis
 3. different models experimented
 4. chosen model
+
+### maintained by Nkamogeleng Matloga (kamo21.km@gmail.com)
